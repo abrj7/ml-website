@@ -1,6 +1,3 @@
-THIS WAS PREVIOUSLY PUBLISHED BY ME ON REPLIT OVER HERE: 
-https://replit.com/talk/learn/Complete-Machine-Learning-Crash-Course/140139
-
 # Machine Learning Course.
 Welcome to the complete Machine Learning Guide. Here you will learn everything about machine learning. You will be taught how to deal with different type of data. This course is more than enough for you to master Machine Learning's theorotical concepts.
 ## Course Content:
@@ -164,3 +161,6 @@ To close Jupyter, go to command prompt and hit Ctrl+C, this will close Jupyter. 
 
 ## Conclusion.
 This course is just meant to give you a head start and a comprehensive guide to machine learning. If you actually want some coding with pandas, etc, comment down below.
+
+THIS WAS PREVIOUSLY PUBLISHED BY ME ON REPLIT OVER HERE: 
+https://replit.com/talk/learn/Complete-Machine-Learning-Crash-Course/140139

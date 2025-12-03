@@ -55,13 +55,16 @@ Welcome to the complete Machine Learning Guide. Here you will learn everything a
 ![mltype](https://coschedule.s3.amazonaws.com/106308/910af4fa-63fa-4346-a2f2-ef280e8a250f/1576687016462.png)
 ### Supervised Learning:
 #### Firstly, we have Supervised Learning, a subset of Machine Learning. In Supervised Learning, the data already has categories, like [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) files, or data that is labeled. A supervised learning model, uses classification, or regression to differentiate data, by simply drawing a line. It can be used to predict stock prices, or hiring employees, based on experience, age, etc. 
-### Supervised Learning:
-|Classification|Regression
-:------|:-----|:------
-|Determines if a sample is one thing or other|Trying to predict a number|
-|Binary classification: Two options involved|Numbers can go up or down|
-|Multi-class classification: more than two options|-------------------------------|
-![cls/reg](https://static.javatpoint.com/tutorial/machine-learning/images/regression-vs-classification-in-machine-learning.png) 
+### Supervised Learning
+
+| Classification                                 | Regression                    |
+|-----------------------------------------------|--------------------------------|
+| Determines if a sample belongs to a category  | Trying to predict a number     |
+| Binary classification: two options            | Numbers can go up or down      |
+| Multi-class classification: more than two options | — ![cls/reg](https://static.javatpoint.com/tutorial/machine-learning/images/regression-vs-classification-in-machine-learning.png)
+           |
+
+
 
 ### Unsupervised Learning:
 #### Unsupervised learning, uses an algorithm that learns to form patterns in _untagged_ data. Using ML(Machine Learning), the computer can find patterns in a set of data, and form groups, more like what was shown in the ML Playground of video recommendations. We can either make the machine use classification or Association, in which it learns what is what.  
